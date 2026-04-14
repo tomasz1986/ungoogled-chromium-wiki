@@ -256,4 +256,4 @@ The Windows version of Chromium encrypts parts of the user data, e.g. some setti
 
 Note that you can also enable the same options under [chrome://flags/#disable-machine-id](chrome://flags/#disable-machine-id) and [chrome://flags/#disable-encryption](chrome://flags/#disable-encryption). While you cannot enable them in advance (and thus prevent the encryption from taking place), what you can do is to start the browser adding the command line flags first, enable the two options next, and then drop the command line flags as no longer needed.
 
-Furthermore, as we cannot guarantee that things will stay this way forever (e.g. due to future code changes in Chromium), please always verify that encryption has indeed been disabled and your browser data does work work correctly when moved to another Windows installation.
+Furthermore, as we cannot guarantee that things will stay this way forever (e.g. due to future code changes in Chromium), please always verify that encryption has indeed been disabled and your browser data does work correctly when moved to another Windows installation.
